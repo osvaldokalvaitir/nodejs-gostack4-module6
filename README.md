@@ -10,9 +10,9 @@
 [![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://code.visualstudio.com/)
 ![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
 
-Aplicação usando Git e GitHub.
+Aplicação usando Git, GitHub e Heroku.
 
-Obs: Cópia do [Node - Módulo 3](https://github.com/osvaldokalvaitir/node-modulo3) para realização de deploy e entrega contínua.
+Obs: Este repositório é cópia do [Node - Módulo 3](https://github.com/osvaldokalvaitir/node-modulo3) para realização de deploy e entrega contínua.
 
 ## Índice
 
@@ -123,6 +123,8 @@ Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/
 - [Git](https://github.com/osvaldokalvaitir/projects-settings/blob/master/version-control/git.md)
 
 - [GitHub](https://github.com/osvaldokalvaitir/projects-settings/blob/master/version-control/github.md)
+
+- [Heroku](https://github.com/osvaldokalvaitir/projects-settings/blob/master/paas/heroku.md)
 
 - [Mailtrap](https://github.com/osvaldokalvaitir/projects-settings/blob/master/email/mailtrap.md)
 
