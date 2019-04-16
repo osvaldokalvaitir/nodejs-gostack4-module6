@@ -12,7 +12,7 @@
 
 Aplicação usando Git, GitHub e Heroku.
 
-Obs: Este repositório é cópia do [Node - Módulo 3](https://github.com/osvaldokalvaitir/node-modulo3) para realização de deploy e entrega contínua.
+*Obs: Este repositório é uma cópia do [Node - Módulo 3](https://github.com/osvaldokalvaitir/node-modulo3) para realização de deploy e entrega contínua.*
 
 ## Índice
 
