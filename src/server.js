@@ -3,7 +3,7 @@ require('dotenv').config()
 const express = require('express')
 const mongoose = require('mongoose')
 const Youch = require('youch')
-const Sentry = require('@sentry/node');
+const Sentry = require('@sentry/node')
 const validate = require('express-validation')
 const databaseConfig = require('./config/database')
 const sentryConfig = require('./config/sentry')
@@ -57,8 +57,8 @@ class App {
       }
 
       return res
-      .status(err.status || 500)
-      .json({ error: 'Internal Server Error' })
+        .status(err.status || 500)
+        .json({ error: 'Internal Server Error' })
     })
   }
 }
