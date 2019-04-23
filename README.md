@@ -10,7 +10,11 @@
 [![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://code.visualstudio.com/)
 ![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
 
-Aplicação usando Git, GitHub, Heroku e mLab.
+Deploy e CI usando Heroku, GitHub e mLab.
+Ou
+Deploy e CI usando Ubuntu, DigitalOcean, GitHub, MongoDB, PM2, Nginx e Buddy.
+
+**Neste repositório é abordado o Deploy e CI no servidor do Heroku, clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/os/ubuntu.md) para o servidor Ubuntu.**
 
 *Obs: Este repositório é uma cópia do [Node - Módulo 3](https://github.com/osvaldokalvaitir/node-modulo3) para realização de deploy e entrega contínua.*
 
@@ -88,6 +92,8 @@ Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/
 
 - [Nodemon](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/nodemon.md)
 
+- [PM2](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/pm2.md)
+
 - [requireDir](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/requiredir.md)
 
 - [Youch](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/youch.md)
@@ -120,6 +126,10 @@ Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/
 
 ### Ferramentas
 
+- [Buddy](https://github.com/osvaldokalvaitir/projects-settings/blob/master/ci-cd/buddy.md)
+
+- [DigitalOcean](https://github.com/osvaldokalvaitir/projects-settings/blob/master/server/digitalocean.md)
+
 - [Docker](https://github.com/osvaldokalvaitir/projects-settings/blob/master/virtualization/docker/docker.md)
 
   - Imagem do Redis: [redis:alpine](https://github.com/osvaldokalvaitir/projects-settings/blob/master/virtualization/docker/images/redis-alpine.md)
@@ -134,6 +144,12 @@ Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/
 
 - [mLab](https://github.com/osvaldokalvaitir/projects-settings/blob/master/database/mongodb/mLab.md)
 
+- [MongoDB](https://github.com/osvaldokalvaitir/projects-settings/blob/master/database/mongodb/mongodb.md)
+
+- [Nginx](https://github.com/osvaldokalvaitir/projects-settings/blob/master/web-server/nginx.md)
+
 - [Insomnia](https://github.com/osvaldokalvaitir/projects-settings/blob/master/api/insomnia.md)
 
 - [Sentry](https://github.com/osvaldokalvaitir/projects-settings/blob/master/error/sentry.md)
+
+- [Ubuntu](https://github.com/osvaldokalvaitir/projects-settings/blob/master/os/ubuntu.md)
