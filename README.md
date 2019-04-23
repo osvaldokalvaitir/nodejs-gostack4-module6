@@ -26,7 +26,7 @@ Deploy e CI usando Heroku, GitHub e mLab. Ou usando Ubuntu, DigitalOcean, GitHub
 
   - [Execução do Projeto](#execução-do-projeto)
 
-  - [Deploy e CI](#deploy-e-ci)
+  - [Deploy e CI do Projeto](#deploy-e-ci-do-projeto)
 
 - [Utilizados no Projeto](#utilizados-no-projeto)
 
@@ -58,11 +58,11 @@ Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/
 
 Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/nodejs.md) e siga a Execução de Projeto.
 
-### Deploy e CI
+### Deploy e CI do Projeto
 
-Para o servidor Heroku, clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/paas/heroku.md) e siga Criar um app, usando também as ferramentas [Servidor Heroku](#servidor-heroku).
+Para o servidor Heroku, clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/paas/heroku.md) e siga Criar um app, usando as ferramentas [Servidor Heroku](#servidor-heroku).
 
-Para o servidor Ubuntu, clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/os/ubuntu.md) e siga Criando Servidor, usando também as ferramentas [Servidor Ubuntu](#servidor-ubuntu).
+Para o servidor Ubuntu, clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/os/ubuntu.md) e siga Criando Servidor, usando as ferramentas [Servidor Ubuntu](#servidor-ubuntu).
 
 ## Utilizados no Projeto
 
