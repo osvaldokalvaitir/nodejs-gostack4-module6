@@ -10,11 +10,7 @@
 [![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://code.visualstudio.com/)
 ![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
 
-Deploy e CI usando Heroku, GitHub e mLab.
-Ou
-Deploy e CI usando Ubuntu, DigitalOcean, GitHub, MongoDB, PM2, Nginx e Buddy.
-
-**Neste repositório é abordado o Deploy e CI no servidor do Heroku, clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/os/ubuntu.md) para o servidor Ubuntu.**
+Deploy e CI usando Heroku, GitHub e mLab. Ou usando Ubuntu, DigitalOcean, GitHub, MongoDB, PM2, Nginx e Buddy.
 
 *Obs: Este repositório é uma cópia do [Node - Módulo 3](https://github.com/osvaldokalvaitir/node-modulo3) para realização de deploy e entrega contínua.*
 
@@ -30,6 +26,8 @@ Deploy e CI usando Ubuntu, DigitalOcean, GitHub, MongoDB, PM2, Nginx e Buddy.
 
   - [Execução do Projeto](#execução-do-projeto)
 
+  - [Deploy e CI](#deploy-e-ci)
+
 - [Utilizados no Projeto](#utilizados-no-projeto)
 
   - [Bibliotecas](#bibliotecas)
@@ -37,6 +35,10 @@ Deploy e CI usando Ubuntu, DigitalOcean, GitHub, MongoDB, PM2, Nginx e Buddy.
   - [APIs](#apis)
 
   - [Ferramentas](#ferramentas)
+
+    - [Servidor Heroku](#servidor-heroku)
+
+    - [Servidor Ubuntu](#servidor-ubuntu)
 
 ## Desenvolvimento
 
@@ -55,6 +57,12 @@ Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/
 ### Execução do Projeto
 
 Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/nodejs.md) e siga a Execução de Projeto.
+
+### Deploy e CI
+
+Para o servidor Heroku, clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/paas/heroku.md) e siga Criar um app, usando também as ferramentas [Servidor Heroku](#servidor-heroku).
+
+Para o servidor Ubuntu, clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/os/ubuntu.md) e siga Criando Servidor, usando também as ferramentas [Servidor Ubuntu](#servidor-ubuntu).
 
 ## Utilizados no Projeto
 
@@ -126,10 +134,6 @@ Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/
 
 ### Ferramentas
 
-- [Buddy](https://github.com/osvaldokalvaitir/projects-settings/blob/master/ci-cd/buddy.md)
-
-- [DigitalOcean](https://github.com/osvaldokalvaitir/projects-settings/blob/master/server/digitalocean.md)
-
 - [Docker](https://github.com/osvaldokalvaitir/projects-settings/blob/master/virtualization/docker/docker.md)
 
   - Imagem do Redis: [redis:alpine](https://github.com/osvaldokalvaitir/projects-settings/blob/master/virtualization/docker/images/redis-alpine.md)
@@ -138,18 +142,26 @@ Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/
 
 - [GitHub](https://github.com/osvaldokalvaitir/projects-settings/blob/master/version-control/github.md)
 
-- [Heroku](https://github.com/osvaldokalvaitir/projects-settings/blob/master/paas/heroku.md)
-
 - [Mailtrap](https://github.com/osvaldokalvaitir/projects-settings/blob/master/email/mailtrap.md)
-
-- [mLab](https://github.com/osvaldokalvaitir/projects-settings/blob/master/database/mongodb/mLab.md)
-
-- [MongoDB](https://github.com/osvaldokalvaitir/projects-settings/blob/master/database/mongodb/mongodb.md)
-
-- [Nginx](https://github.com/osvaldokalvaitir/projects-settings/blob/master/web-server/nginx.md)
 
 - [Insomnia](https://github.com/osvaldokalvaitir/projects-settings/blob/master/api/insomnia.md)
 
 - [Sentry](https://github.com/osvaldokalvaitir/projects-settings/blob/master/error/sentry.md)
+
+#### Servidor Heroku
+
+- [Heroku](https://github.com/osvaldokalvaitir/projects-settings/blob/master/paas/heroku.md)
+
+- [mLab](https://github.com/osvaldokalvaitir/projects-settings/blob/master/database/mongodb/mLab.md)
+
+#### Servidor Ubuntu
+
+- [Buddy](https://github.com/osvaldokalvaitir/projects-settings/blob/master/ci-cd/buddy.md)
+
+- [DigitalOcean](https://github.com/osvaldokalvaitir/projects-settings/blob/master/server/digitalocean.md)
+
+- [MongoDB](https://github.com/osvaldokalvaitir/projects-settings/blob/master/database/mongodb/mongodb.md)
+
+- [Nginx](https://github.com/osvaldokalvaitir/projects-settings/blob/master/web-server/nginx.md)
 
 - [Ubuntu](https://github.com/osvaldokalvaitir/projects-settings/blob/master/os/ubuntu.md)
