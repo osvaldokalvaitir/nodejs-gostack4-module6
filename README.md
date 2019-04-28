@@ -60,7 +60,7 @@ Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/
 
 ### Deploy e CI do Projeto
 
-Para o servidor Heroku, clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/paas/heroku.md) e siga Criar um app, usando as ferramentas [Servidor Heroku](#servidor-heroku).
+Para o servidor Heroku, clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/paas/heroku.md) e siga Criar um app no Heroku > Projeto Node.js, usando as ferramentas [Servidor Heroku](#servidor-heroku).
 
 Para o servidor Ubuntu, clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/os/ubuntu.md) e siga Criando Servidor, usando as ferramentas [Servidor Ubuntu](#servidor-ubuntu).
 
