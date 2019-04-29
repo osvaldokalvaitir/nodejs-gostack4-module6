@@ -31,6 +31,8 @@ Deploy e CI usando Heroku, GitHub e mLab. Ou usando Ubuntu, DigitalOcean, GitHub
 - [Utilizados no Projeto](#utilizados-no-projeto)
 
   - [Bibliotecas](#bibliotecas)
+  
+    - [Servidor Ubuntu](#servidor-ubuntu)  
 
   - [APIs](#apis)
 
@@ -100,11 +102,13 @@ Para o servidor Ubuntu, clique [aqui](https://github.com/osvaldokalvaitir/projec
 
 - [Nodemon](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/nodemon.md)
 
-- [PM2](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/pm2.md)
-
 - [requireDir](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/requiredir.md)
 
 - [Youch](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/youch.md)
+
+#### Servidor Ubuntu
+
+- [PM2](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/pm2.md)
 
 ### APIs
 
