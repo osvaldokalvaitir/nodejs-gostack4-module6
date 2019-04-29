@@ -31,16 +31,10 @@ Deploy e CI usando Heroku, GitHub e mLab. Ou usando Ubuntu, DigitalOcean, GitHub
 - [Utilizados no Projeto](#utilizados-no-projeto)
 
   - [Bibliotecas](#bibliotecas)
-  
-    - [Servidor Ubuntu](#servidor-ubuntu)  
 
   - [APIs](#apis)
 
   - [Ferramentas](#ferramentas)
-
-    - [Servidor Heroku](#servidor-heroku)
-
-    - [Servidor Ubuntu](#servidor-ubuntu)
 
 ## Desenvolvimento
 
@@ -62,9 +56,9 @@ Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/
 
 ### Deploy e CI do Projeto
 
-Para o servidor Heroku, clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/paas/heroku.md) e siga Criar um app no Heroku > Projeto Node.js, usando as ferramentas [Servidor Heroku](#servidor-heroku).
+Para o servidor Heroku, clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/paas/heroku.md) e siga Criar um app no Heroku > Projeto Node.js, usando as ferramentas do Servidor Heroku.
 
-Para o servidor Ubuntu, clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/os/ubuntu.md) e siga Criando Servidor, usando as ferramentas [Servidor Ubuntu](#servidor-ubuntu).
+Para o servidor Ubuntu, clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/os/ubuntu.md) e siga Criando Servidor, usando as bibliotecas e ferramentas do Servidor Ubuntu.
 
 ## Utilizados no Projeto
 
@@ -156,7 +150,7 @@ Para o servidor Ubuntu, clique [aqui](https://github.com/osvaldokalvaitir/projec
 
 - [Heroku](https://github.com/osvaldokalvaitir/projects-settings/blob/master/paas/heroku.md)
 
-- [mLab](https://github.com/osvaldokalvaitir/projects-settings/blob/master/database/mongodb/mLab.md)
+- [mLab](https://github.com/osvaldokalvaitir/projects-settings/blob/master/database/mongodb/mlab.md)
 
 #### Servidor Ubuntu
 
