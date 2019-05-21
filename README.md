@@ -94,7 +94,7 @@ Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/
 
 ###### Servidor Ubuntu
 
-- [PM2](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/pm2.md) - Siga `Comandos` para configurar o servidor PM2.
+- [PM2](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/pm2.md)
 
 ### APIs
 
@@ -140,18 +140,18 @@ Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/
 
 ###### Servidor Heroku
 
-- [Heroku](https://github.com/osvaldokalvaitir/projects-settings/blob/master/paas/heroku.md) - Siga `Criar app > Projeto Node.js` para criar um app.
+- [Heroku](https://github.com/osvaldokalvaitir/projects-settings/blob/master/paas/heroku.md)
 
-- [mLab](https://github.com/osvaldokalvaitir/projects-settings/blob/master/database/mongodb/mlab.md) - Siga `Criar banco de dados` para criar um banco de dados e `Criar usuário` para criar um usuário.
+- [mLab](https://github.com/osvaldokalvaitir/projects-settings/blob/master/database/mongodb/mlab.md)
 
 ###### Servidor Ubuntu
 
-- [Buddy](https://github.com/osvaldokalvaitir/projects-settings/blob/master/ci-cd/buddy.md) - Siga `Criar app` para criar um app.
+- [Buddy](https://github.com/osvaldokalvaitir/projects-settings/blob/master/ci-cd/buddy.md)
 
 - [DigitalOcean](https://github.com/osvaldokalvaitir/projects-settings/blob/master/server/digitalocean.md)
 
-- [MongoDB](https://github.com/osvaldokalvaitir/projects-settings/blob/master/database/mongodb/mongodb.md) - Siga `Instalação > Ubuntu` para realizar a instalação.
+- [MongoDB](https://github.com/osvaldokalvaitir/projects-settings/blob/master/database/mongodb/mongodb.md)
 
-- [Nginx](https://github.com/osvaldokalvaitir/projects-settings/blob/master/web-server/nginx.md) - Siga `Setar Arquivo de Configuração > Linux` para setar o arquivo de configuração.
+- [Nginx](https://github.com/osvaldokalvaitir/projects-settings/blob/master/web-server/nginx.md)
 
-- [Ubuntu](https://github.com/osvaldokalvaitir/projects-settings/blob/master/os/ubuntu.md) - Siga `Criar servidor` para criar um servidor.
+- [Ubuntu](https://github.com/osvaldokalvaitir/projects-settings/blob/master/os/ubuntu.md)
