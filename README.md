@@ -26,8 +26,6 @@ Deploy e CI usando Heroku, GitHub e mLab. Ou usando Ubuntu, DigitalOcean, GitHub
 
   - [Execução do Projeto](#execução-do-projeto)
 
-  - [Deploy e CI do Projeto](#deploy-e-ci-do-projeto)
-
 - [Utilizados no Projeto](#utilizados-no-projeto)
 
   - [Bibliotecas](#bibliotecas)
@@ -40,25 +38,19 @@ Deploy e CI usando Heroku, GitHub e mLab. Ou usando Ubuntu, DigitalOcean, GitHub
 
 ### Configurações Iniciais
 
-Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/README.md) e siga as Configurações Iniciais.
+Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/README.md) e siga `Configurações Iniciais`.
 
 ### Instalação do Projeto
 
-Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/nodejs.md) e siga a Instalação de Projeto.
+Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/nodejs.md) e siga `Instalação de Projeto`.
 
 ### Configuração das Variáveis de Ambiente
 
-Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/dotenv.md) e siga a Configuração de Variáveis de Ambiente.
+Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/dotenv.md) e siga `Configuração de Variáveis de Ambiente`.
 
 ### Execução do Projeto
 
-Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/nodejs.md) e siga a Execução de Projeto.
-
-### Deploy e CI do Projeto
-
-Para o servidor Heroku, clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/paas/heroku.md) e siga Criar um app no Heroku > Projeto Node.js, usando as ferramentas do Servidor Heroku.
-
-Para o servidor Ubuntu, clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/os/ubuntu.md) e siga Criando Servidor, usando as bibliotecas e ferramentas do Servidor Ubuntu.
+Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/nodejs.md) e siga `Execução de Projeto`.
 
 ## Utilizados no Projeto
 
@@ -102,7 +94,7 @@ Para o servidor Ubuntu, clique [aqui](https://github.com/osvaldokalvaitir/projec
 
 ###### Servidor Ubuntu
 
-- [PM2](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/pm2.md)
+- [PM2](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/pm2.md) - Siga `Comandos` para configurar o servidor PM2.
 
 ### APIs
 
@@ -148,18 +140,18 @@ Para o servidor Ubuntu, clique [aqui](https://github.com/osvaldokalvaitir/projec
 
 ###### Servidor Heroku
 
-- [Heroku](https://github.com/osvaldokalvaitir/projects-settings/blob/master/paas/heroku.md)
+- [Heroku](https://github.com/osvaldokalvaitir/projects-settings/blob/master/paas/heroku.md) - Siga `Criar app > Projeto Node.js` para criar um app.
 
-- [mLab](https://github.com/osvaldokalvaitir/projects-settings/blob/master/database/mongodb/mlab.md)
+- [mLab](https://github.com/osvaldokalvaitir/projects-settings/blob/master/database/mongodb/mlab.md) - Siga `Criar banco de dados` para criar um banco de dados e `Criar usuário` para criar um usuário.
 
 ###### Servidor Ubuntu
 
-- [Buddy](https://github.com/osvaldokalvaitir/projects-settings/blob/master/ci-cd/buddy.md)
+- [Buddy](https://github.com/osvaldokalvaitir/projects-settings/blob/master/ci-cd/buddy.md) - Siga `Criar app` para criar um app.
 
 - [DigitalOcean](https://github.com/osvaldokalvaitir/projects-settings/blob/master/server/digitalocean.md)
 
-- [MongoDB](https://github.com/osvaldokalvaitir/projects-settings/blob/master/database/mongodb/mongodb.md)
+- [MongoDB](https://github.com/osvaldokalvaitir/projects-settings/blob/master/database/mongodb/mongodb.md) - Siga `Instalação > Ubuntu` para realizar a instalação.
 
-- [Nginx](https://github.com/osvaldokalvaitir/projects-settings/blob/master/web-server/nginx.md)
+- [Nginx](https://github.com/osvaldokalvaitir/projects-settings/blob/master/web-server/nginx.md) - Siga `Setar Arquivo de Configuração > Linux` para setar o arquivo de configuração.
 
-- [Ubuntu](https://github.com/osvaldokalvaitir/projects-settings/blob/master/os/ubuntu.md)
+- [Ubuntu](https://github.com/osvaldokalvaitir/projects-settings/blob/master/os/ubuntu.md) - Siga `Criar servidor` para criar um servidor.
