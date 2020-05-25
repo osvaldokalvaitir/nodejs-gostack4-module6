@@ -1,18 +1,18 @@
-# Node - Módulo 6
+# Node.js - Módulo 6
 
-[![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/osvaldokalvaitir/node-modulo6/blob/master/LICENSE)
-![](https://img.shields.io/github/package-json/v/osvaldokalvaitir/node-modulo6.svg)
-![](https://img.shields.io/github/last-commit/osvaldokalvaitir/node-modulo6.svg?color=red)
-![](https://img.shields.io/github/languages/top/osvaldokalvaitir/node-modulo6.svg?color=yellow)
-![](https://img.shields.io/github/languages/count/osvaldokalvaitir/node-modulo6.svg?color=lightgrey)
-![](https://img.shields.io/github/languages/code-size/osvaldokalvaitir/node-modulo6.svg)
-![](https://img.shields.io/github/repo-size/osvaldokalvaitir/node-modulo6.svg?color=blueviolet)
+[![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/osvaldokalvaitir/nodejs-modulo6/blob/master/LICENSE)
+![](https://img.shields.io/github/package-json/v/osvaldokalvaitir/nodejs-modulo6.svg)
+![](https://img.shields.io/github/last-commit/osvaldokalvaitir/nodejs-modulo6.svg?color=red)
+![](https://img.shields.io/github/languages/top/osvaldokalvaitir/nodejs-modulo6.svg?color=yellow)
+![](https://img.shields.io/github/languages/count/osvaldokalvaitir/nodejs-modulo6.svg?color=lightgrey)
+![](https://img.shields.io/github/languages/code-size/osvaldokalvaitir/nodejs-modulo6.svg)
+![](https://img.shields.io/github/repo-size/osvaldokalvaitir/nodejs-modulo6.svg?color=blueviolet)
 [![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://code.visualstudio.com/)
 ![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
 
 Deploy e CI usando Heroku, GitHub e mLab. Ou usando Ubuntu, DigitalOcean, GitHub, MongoDB, PM2, Nginx e Buddy.
 
-*Obs: Este repositório é uma cópia do [Node - Módulo 3](https://github.com/osvaldokalvaitir/node-modulo3) para realização de deploy e entrega contínua.*
+*Obs: Este repositório é uma cópia do [Node.js - Módulo 3](https://github.com/osvaldokalvaitir/nodejs-modulo3) para realização de deploy e entrega contínua.*
 
 ## Índice
 
