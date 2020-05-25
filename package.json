@@ -1,14 +1,14 @@
 {
-  "name": "node-modulo6",
+  "name": "nodejs-modulo6",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "https://github.com/osvaldokalvaitir/node-modulo6.git",
+  "repository": "https://github.com/osvaldokalvaitir/nodejs-modulo6.git",
   "author": "osvaldokalvaitir <osvaldokalvaitir@outlook.com>",
   "license": "MIT",
   "scripts": {
     "dev": "nodemon src/index.js",
     "start": "node src/index.js"
-  }, 
+  },
   "dependencies": {
     "@sentry/node": "^5.0.8",
     "bcryptjs": "^2.4.3",
