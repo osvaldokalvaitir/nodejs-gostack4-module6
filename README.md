@@ -1,157 +1,69 @@
-# Node.js - Módulo 6
+<h1 align="center">
+    <img src="/.github/assets/logo.png"
+    width="200px"
+    alt="Logo" />
+</h1>
 
-[![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/osvaldokalvaitir/nodejs-modulo6/blob/master/LICENSE)
-![](https://img.shields.io/github/package-json/v/osvaldokalvaitir/nodejs-modulo6.svg)
-![](https://img.shields.io/github/last-commit/osvaldokalvaitir/nodejs-modulo6.svg?color=red)
-![](https://img.shields.io/github/languages/top/osvaldokalvaitir/nodejs-modulo6.svg?color=yellow)
-![](https://img.shields.io/github/languages/count/osvaldokalvaitir/nodejs-modulo6.svg?color=lightgrey)
-![](https://img.shields.io/github/languages/code-size/osvaldokalvaitir/nodejs-modulo6.svg)
-![](https://img.shields.io/github/repo-size/osvaldokalvaitir/nodejs-modulo6.svg?color=blueviolet)
-[![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://code.visualstudio.com/)
-![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
+<h3 align="center">
+  Node.js - GoStack 4 Module 6
+</h3>
 
-Deploy e CI usando Heroku, GitHub e mLab. Ou usando Ubuntu, DigitalOcean, GitHub, MongoDB, PM2, Nginx e Buddy.
+<p align="center">
+  :shopping_cart: Deploy and CI using Git, GitHub with Heroku server and mLab or with Ubuntu server, PM2, DigitalOcean, MongoDB, Nginx and Buddy
+</p>
 
-*Obs: Este repositório é uma cópia do [Node.js - Módulo 3](https://github.com/osvaldokalvaitir/nodejs-modulo3) para realização de deploy e entrega contínua.*
+<p align="center">
+  :link: This repository is a copy of <a href="https://github.com/osvaldokalvaitir/nodejs-gostack4-module3">Node.js - GoStack 4 Module 3</a>
+</p>
 
-## Índice
+<p align="center">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/osvaldokalvaitir/nodejs-gostack4-module6.svg?color=00A83A">
 
-- [Desenvolvimento](#desenvolvimento)
+  <img alt="GitHub language top" src="https://img.shields.io/github/languages/top/osvaldokalvaitir/nodejs-gostack4-module6.svg?color=00A83A">
 
-  - [Configuração do Ambiente](#configuração-do-ambiente)
+  <a href="https://kalvaitir.com/">
+    <img alt="Made by Kalvaitir" src="https://img.shields.io/badge/made%20by-Kalvaitir-00A83A">
+  </a>
 
-  - [Instalação do Projeto](#instalação-do-projeto)
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-00A83A">
+</p>
 
-  - [Configuração das Variáveis de Ambiente](#configuração-das-variáveis-de-ambiente)
+<p align="center">
+  <a href="#wrench-install-and-run">Install and run</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="#memo-license">License</a>
+</p>
 
-  - [Execução do Projeto](#execução-do-projeto)
+## :wrench: Install and run
 
-- [Utilizados no Projeto](#utilizados-no-projeto)
+Open terminal:
 
-  - [Bibliotecas](#bibliotecas)
+```sh
+# Clone this repo
+git clone https://github.com/osvaldokalvaitir/nodejs-gostack4-module6
 
-  - [APIs](#apis)
+# Entry in folder
+cd nodejs-gostack4-module6
 
-  - [Ferramentas](#ferramentas)
+# Install deps with npm or yarn
+npm install | yarn
 
-## Desenvolvimento
+# Make a copy of the .env.example file, rename it to .env and change the variables according to your environment.
 
-### Configuração do Ambiente
+# Launch the app with npm or yarn
+npm dev | yarn dev
+```
 
-Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/README.md) e siga `Configuração de Ambiente`.
+Click to learn more about the tools used: [Git](https://github.com/osvaldokalvaitir/awesome/blob/main/src/version-controls/git/git.md), [GitHub](https://github.com/osvaldokalvaitir/awesome/blob/main/src/version-controls/git/tools/github.md).
 
-### Instalação do Projeto
+Click to learn more about the tools used in the Heroku server: [Heroku](https://github.com/osvaldokalvaitir/awesome/blob/main/src/paas/heroku.md), [mLab](https://github.com/osvaldokalvaitir/awesome/blob/main/src/sgdbs/mongodb/mLab.md)
 
-Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/nodejs.md) e siga `Instalação de Projeto`.
+Click to learn more about the tools used in the Ubuntu server: [Ubuntu](https://github.com/osvaldokalvaitir/awesome/blob/main/src/os/ubuntu.md), [DigitalOcean](https://github.com/osvaldokalvaitir/awesome/blob/main/src/servers/digitalocean.md), [Nginx](https://github.com/osvaldokalvaitir/awesome/blob/main/src/web-servers/nginx.md), [MongoDB](https://github.com/osvaldokalvaitir/awesome/blob/main/src/databases/mongodb.md), [Buddy](https://github.com/osvaldokalvaitir/awesome/blob/main/src/ci-cd/buddy.md)
 
-### Configuração das Variáveis de Ambiente
+## :memo: License
 
-Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/dotenv.md) e siga `Configuração de Variáveis de Ambiente`.
+This project is under the MIT license. See [LICENSE](/LICENSE) for more information.
 
-### Execução do Projeto
+---
 
-Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/nodejs.md) e siga `Execução de Projeto para Desenvolvimento` ou `Execução de Projeto para Produção`.
-
-## Utilizados no Projeto
-
-### Bibliotecas
-
-- [@sentry/node](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/@sentry-node.md)
-
-- [bcrypt.js](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/bcryptjs.md)
-
-- [dotenv](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/dotenv.md)
-
-- [ESLint](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/eslint.md)
-
-- [Express](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/express.md)
-
-- [Express Async Handler](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/express-async-handler.md)
-
-- [Express Handlebars](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/express-handlebars.md)
-
-- [Express Handlebars plugin for Nodemailer](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/nodemailer-express-handlebars.md)
-
-- [Express Validation](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/express-validation.md)
-
-- [Joi](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/joi.md)
-
-- [Json Web Token](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/jsonwebtoken.md)
-
-- [Kue](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/kue.md)
-
-- [Mongoose](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/mongoose.md)
-
-- [Mongoose Paginate](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/mongoose-paginate.md)
-
-- [Nodemailer](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/nodemailer.md)
-
-- [Nodemon](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/nodemon.md)
-
-- [requireDir](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/requiredir.md)
-
-- [Youch](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/youch.md)
-
-###### Servidor Ubuntu
-
-- [PM2](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/pm2.md)
-
-### APIs
-
-- **Interna**
-
-  - **Rotas**
-
-    - Intenções de Compras
-
-      - Adiciona nova intenção de compra
-
-    - Anúncios
-
-        - Lista todos os anúncios
-        - Lista somente dados de um anúncio
-        - Adiciona novos anúncios
-        - Edita dados de anúncios existentes
-        - Exclui anúncios existentes
-
-    - Sessões
-
-        - Adiciona novas sessões
-
-    - Usuários
-
-        - Adiciona novos usuários
-
-### Ferramentas
-
-- [Docker](https://github.com/osvaldokalvaitir/projects-settings/blob/master/virtualization/docker/docker.md)
-
-  - Imagem do Redis: [redis:alpine](https://github.com/osvaldokalvaitir/projects-settings/blob/master/virtualization/docker/images/redis-alpine.md)
-
-- [Git](https://github.com/osvaldokalvaitir/projects-settings/blob/master/version-control/git.md)
-
-- [GitHub](https://github.com/osvaldokalvaitir/projects-settings/blob/master/version-control/github.md)
-
-- [Mailtrap](https://github.com/osvaldokalvaitir/projects-settings/blob/master/email/mailtrap.md)
-
-- [Insomnia](https://github.com/osvaldokalvaitir/projects-settings/blob/master/api-client/insomnia.md)
-
-- [Sentry](https://github.com/osvaldokalvaitir/projects-settings/blob/master/error/sentry.md)
-
-###### Servidor Heroku
-
-- [Heroku](https://github.com/osvaldokalvaitir/projects-settings/blob/master/paas/heroku.md)
-
-- [mLab](https://github.com/osvaldokalvaitir/projects-settings/blob/master/database/mongodb/mlab.md)
-
-###### Servidor Ubuntu
-
-- [Buddy](https://github.com/osvaldokalvaitir/projects-settings/blob/master/ci-cd/buddy.md)
-
-- [DigitalOcean](https://github.com/osvaldokalvaitir/projects-settings/blob/master/server/digitalocean.md)
-
-- [MongoDB](https://github.com/osvaldokalvaitir/projects-settings/blob/master/database/mongodb/mongodb.md)
-
-- [Nginx](https://github.com/osvaldokalvaitir/projects-settings/blob/master/web-server/nginx.md)
-
-- [Ubuntu](https://github.com/osvaldokalvaitir/projects-settings/blob/master/os/ubuntu.md)
+<p align="center">
+Developed with 💚 by <a href="https://www.linkedin.com/in/osvaldokalvaitir">Osvaldo Kalvaitir Filho</a>
+</p>
