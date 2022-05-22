@@ -54,9 +54,9 @@ npm dev | yarn dev
 
 Click to learn more about the tools used: [Git](https://github.com/osvaldokalvaitir/awesome/blob/main/src/version-controls/git/git.md), [GitHub](https://github.com/osvaldokalvaitir/awesome/blob/main/src/version-controls/git/tools/github.md).
 
-Click to learn more about the tools used in the Heroku server: [Heroku](https://github.com/osvaldokalvaitir/awesome/blob/main/src/paas/heroku.md), [mLab](https://github.com/osvaldokalvaitir/awesome/blob/main/src/sgdbs/mongodb/mLab.md)
+Heroku server: [Heroku](https://github.com/osvaldokalvaitir/awesome/blob/main/src/paas/heroku.md), [mLab](https://github.com/osvaldokalvaitir/awesome/blob/main/src/sgdbs/mongodb/mLab.md)
 
-Click to learn more about the tools used in the Ubuntu server: [Ubuntu](https://github.com/osvaldokalvaitir/awesome/blob/main/src/os/ubuntu.md), [DigitalOcean](https://github.com/osvaldokalvaitir/awesome/blob/main/src/servers/digitalocean.md), [Nginx](https://github.com/osvaldokalvaitir/awesome/blob/main/src/web-servers/nginx.md), [MongoDB](https://github.com/osvaldokalvaitir/awesome/blob/main/src/databases/mongodb.md), [Buddy](https://github.com/osvaldokalvaitir/awesome/blob/main/src/ci-cd/buddy.md)
+Ubuntu server: [Ubuntu](https://github.com/osvaldokalvaitir/awesome/blob/main/src/os/ubuntu.md), [DigitalOcean](https://github.com/osvaldokalvaitir/awesome/blob/main/src/servers/digitalocean.md), [Nginx](https://github.com/osvaldokalvaitir/awesome/blob/main/src/web-servers/nginx.md), [MongoDB](https://github.com/osvaldokalvaitir/awesome/blob/main/src/databases/mongodb.md), [Buddy](https://github.com/osvaldokalvaitir/awesome/blob/main/src/ci-cd/buddy.md)
 
 ## :memo: License
 
