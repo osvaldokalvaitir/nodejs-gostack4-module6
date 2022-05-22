@@ -9,7 +9,7 @@
 </h3>
 
 <p align="center">
-  :shopping_cart: Deploy and CI using Git, GitHub with Heroku server and mLab or with Ubuntu server, PM2, DigitalOcean, MongoDB, Nginx and Buddy
+  :shopping_cart: Deploy and CI using Git, GitHub with Heroku server using mLab or with Ubuntu server using PM2, DigitalOcean, MongoDB, Nginx and Buddy
 </p>
 
 <p align="center">
