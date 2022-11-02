@@ -49,7 +49,7 @@ npm install | yarn
 # Make a copy of the .env.example file, rename it to .env and change the variables according to your environment.
 
 # Launch the app with npm or yarn
-npm dev | yarn dev
+npm run dev | yarn dev
 ```
 
 Click to learn more about the tools used: [Git](https://github.com/osvaldokalvaitir/awesome/blob/main/src/version-controls/git/git.md), [GitHub](https://github.com/osvaldokalvaitir/awesome/blob/main/src/version-controls/git/tools/github.md).
