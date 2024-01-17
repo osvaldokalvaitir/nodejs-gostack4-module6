@@ -52,7 +52,7 @@ npm install | yarn
 npm run dev | yarn dev
 ```
 
-Click to learn more about the tools used: [Git](https://github.com/osvaldokalvaitir/awesome/blob/main/src/version-controls/git/git.md), [GitHub](https://github.com/osvaldokalvaitir/awesome/blob/main/src/version-controls/git/tools/github.md).
+Click to learn more about the tools used: [Git](https://github.com/osvaldokalvaitir/awesome/blob/main/src/version-controls/git.md), [GitHub](https://github.com/osvaldokalvaitir/awesome/blob/main/src/version-controls/git/tools/github.md).
 
 Heroku server: [Heroku](https://github.com/osvaldokalvaitir/awesome/blob/main/src/paas/heroku.md), [mLab](https://github.com/osvaldokalvaitir/awesome/blob/main/src/sgdbs/mongodb/mLab.md)
 
